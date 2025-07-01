@@ -27,3 +27,4 @@ C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCCll
 C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCCllientExample\OPCCllientExample\obj\Debug\net8.0\OPCCllientExample.genruntimeconfig.cache
 C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCCllientExample\OPCCllientExample\obj\Debug\net8.0\ref\OPCCllientExample.dll
 C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCCllientExample\OPCCllientExample\bin\Debug\net8.0\OPCSetting.xml
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCCllientExample\OPCCllientExample\obj\Debug\net8.0\OPCCllientExample.sourcelink.json

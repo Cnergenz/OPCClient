@@ -87,12 +87,15 @@ namespace OPCCllientExample
                 
                 var endpointUrl = $"opc.tcp://{ip}:{port}";
                 var selectedEndpoint = await SelectEndpointAsync(endpointUrl, useSecurity: false);
-                var userIdentity = new UserIdentity("Owner", "");
-
+                //var userIdentity = new UserIdentity("Owner", "");
+                //session = await Session.Create(
+                //   applicationInstance.ApplicationConfiguration,
+                //   new ConfiguredEndpoint(null, selectedEndpoint, EndpointConfiguration.Create(applicationInstance.ApplicationConfiguration)),
+                //   false, "", 10000, userIdentity, null);
                 session = await Session.Create(
                    applicationInstance.ApplicationConfiguration,
                    new ConfiguredEndpoint(null, selectedEndpoint, EndpointConfiguration.Create(applicationInstance.ApplicationConfiguration)),
-                   false, "", 10000, userIdentity, null);
+                   false, "", 10000, null, null);
                 if (session != null && session.Connected)
                 {
                     IsConnected = true;
@@ -283,7 +286,7 @@ namespace OPCCllientExample
                     }
                     catch
                     {
-                        throw new Exception("Fuck you");
+                        throw new Exception("Write Fail");
                     }
                     if (results != null && results[0] == StatusCodes.Good)
                     {

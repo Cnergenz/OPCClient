@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPCCllientExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+002ead14d4a2417d2646e415c73c8cfb74b914db")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPCCllientExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPCCllientExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

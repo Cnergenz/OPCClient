@@ -25,16 +25,8 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OPCSetting.xml",
-              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\OPCCllientExample\\OPCCllientExample\\OPCSetting.xml",
-              "RelativeDocumentMoniker": "OPCCllientExample\\OPCSetting.xml",
-              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\OPCCllientExample\\OPCCllientExample\\OPCSetting.xml",
-              "RelativeToolTip": "OPCCllientExample\\OPCSetting.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-09T02:35:58.417Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -44,9 +36,23 @@
               "RelativeDocumentMoniker": "OPCCllientExample\\OPC.cs",
               "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\OPCCllientExample\\OPCCllientExample\\OPC.cs",
               "RelativeToolTip": "OPCCllientExample\\OPC.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAqwEYBAABOAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwBgBAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T01:50:12.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OPCSetting.xml",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\OPCCllientExample\\OPCCllientExample\\OPCSetting.xml",
+              "RelativeDocumentMoniker": "OPCCllientExample\\OPCSetting.xml",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\OPCCllientExample\\OPCCllientExample\\OPCSetting.xml",
+              "RelativeToolTip": "OPCCllientExample\\OPCSetting.xml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-09T02:35:58.417Z",
               "EditorCaption": ""
             },
             {
@@ -57,13 +63,10 @@
               "RelativeDocumentMoniker": "OPCCllientExample\\Program.cs",
               "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\OPCCllientExample\\OPCCllientExample\\Program.cs",
               "RelativeToolTip": "OPCCllientExample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T01:24:15.732Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2025-05-05T01:24:15.732Z",
+              "EditorCaption": ""
             }
           ]
         },
